@@ -106,7 +106,7 @@ The waveform can now be analyzed using GTKWave.
 
 ### GTKWave Output
 
-<img width="1920" height="1012" alt="waveform" src="https://github.com/user-attachments/assets/97c72225-1e60-4409-832a-bb0c5b3b51ae" />
+
 
 ---
 <img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/1c2dbe1c-ffbf-45b6-bab2-8995f892a882" />
@@ -155,9 +155,7 @@ endmodule
 - When `sel = 0`, the output follows **i0**.
 - When `sel = 1`, the output follows **i1**.
 
-### Verilog Code Screenshot
-
-<img width="1920" height="1012" alt="code" src="https://github.com/user-attachments/assets/24df9d93-00c8-4e5e-8ee0-a331dfd32adf" />
+### Verilog Code Screenshonshot
 
 ---
 <img width="1920" height="923" alt="veilogg" src="https://github.com/user-attachments/assets/2d08c12e-01dc-40bc-86a2-69b391fe9e5b" />
