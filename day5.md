@@ -241,6 +241,9 @@ end
 - Must be inside procedural blocks.
 - Synthesizable only if the number of iterations is fixed at compile time.
 
+  <img width="1920" height="922" alt="partialcaseshow" src="https://github.com/user-attachments/assets/7ec5e486-4674-40d7-b26a-a90b83e678dc" />
+
+
 #### Example: 4-to-1 MUX Using a For Loop
 
 ```verilog
