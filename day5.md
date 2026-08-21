@@ -226,6 +226,7 @@ endmodule
 
 ---
 
+
 ## 4. For Loops in Verilog
 
 A **for loop** is used within procedural blocks (`initial`, `always`, tasks/functions) to execute statements multiple times based on a loop counter.
