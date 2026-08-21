@@ -260,6 +260,9 @@ synthesis
 
 
 <img width="1920" height="922" alt="countershow" src="https://github.com/user-attachments/assets/cb90f2e6-fc2f-4ef5-9d7f-84ae3cfdfb38" />
+simulation
+<img width="1920" height="922" alt="counteroptgtkwave" src="https://github.com/user-attachments/assets/04c6d0fc-68dc-4439-82e0-47376de56f0d" />
+
 
 ---
 
