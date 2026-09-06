@@ -75,6 +75,8 @@ In this project, the **Sky130 PDK** is used.
 **OpenLane is an open-source flow used to convert RTL designs into GDSII layouts.**
 
 It combines different tools and performs the major steps required in ASIC physical design.
+<img width="1280" height="768" alt="open2" src="https://github.com/user-attachments/assets/b5b45f78-20b7-46ff-a185-f726347a92d7" />
+
 <img width="1280" height="768" alt="open1" src="https://github.com/user-attachments/assets/917ad504-e8ce-4a00-aab9-8478f02bab57" />
 
 
@@ -130,9 +132,10 @@ The synthesized circuit may contain:
 ### Synthesis Result
 
 The synthesis result shows how the RTL design has been converted into a gate-level implementation.
-<img width="1280" height="768" alt="open2" src="https://github.com/user-attachments/assets/56710c29-be46-45d1-89df-b8df6d4a9b12" />
 
-<img width="1280" height="768" alt="runsysnthesis" src="https://github.com/user-attachments/assets/0cc25fdd-cb02-48b9-aae3-20c054c2e7d1" />
+
+<img width="1280" height="768" alt="synthesissss" src="https://github.com/user-attachments/assets/78805a58-2988-4c13-ab9a-1b3ce818fb50" />
+
 
 
 ---
@@ -373,7 +376,8 @@ The recorded synthesis result for the PicoRV32A design is shown below:
 ### Design Statistics
 
 The design statistics provide an overall summary of the synthesized PicoRV32A design.
-<img width="1280" height="768" alt="synthesissss" src="https://github.com/user-attachments/assets/6d4a708d-fce6-40a3-a090-9f70c9695fcd" />
+<img width="1280" height="768" alt="runsysnthesis" src="https://github.com/user-attachments/assets/8c0112df-1818-43ec-84cc-dc52277f4eb0" />
+
 
 
 ### Flip-Flop Ratio
