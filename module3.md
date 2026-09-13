@@ -197,9 +197,8 @@ Design rules
 Technology information
 Standard-cell-related information
 This allows the circuit to be designed for a real semiconductor manufacturing process.
-<img width="1280" height="768" alt="slowlib" src="https://github.com/user-attachments/assets/f6a4482e-e761-48e9-a2e4-36c3ce7f6885" />
-<img width="1280" height="768" alt="typicallib" src="https://github.com/user-attachments/assets/89967293-0a9a-4055-9027-c747b2f83835" />
-<img width="1280" height="768" alt="fastlib" src="https://github.com/user-attachments/assets/36a81246-f896-47a1-9880-6a163bae2e42" />
+<img width="1280" height="768" alt="pshortlib" src="https://github.com/user-attachments/assets/cde833e3-4a11-4293-a7d0-53460b8cc7e6" />
+
 
 
 
